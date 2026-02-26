@@ -20,7 +20,7 @@ Choose the format that works best for you:
 | Format | File | Description |
 |--------|------|-------------|
 | 📝 **Text** | `BOOK-CKD-Python-v7.txt` | Plain text version - perfect for quick reference and searching |
-| 🐍 **Python** | `BOOK-CKD-Python-v7.py` | Executable Python script with all code examples |
+| 🐍 **Google Colab / Jupyter** | `BOOK-CKD-Python-v7.py` | Executable Python script with all code examples |
 | 📓 **Jupyter** | `BOOK-CKD-Python-v7.ipynb` | Interactive notebook - run code cells and experiment! |
 | 📄 **PDF** | `BOOK-CKD-Python-v7.pdf` | Formatted PDF - ideal for printing and offline reading |
 
