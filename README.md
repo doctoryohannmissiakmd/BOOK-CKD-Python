@@ -13,6 +13,15 @@ This comprehensive guide covers Python programming applications in CKD research 
 ```
 AMAZON LINK
 ```
+
+## Legal Disclaimer
+Before use of the files, please consult the legal disclaimer available here
+````
+https://github.com/doctoryohannmissiakmd/BOOK-CKD-Python/blob/main/LEGAL%20DISCLAIMER
+````
+
+
+
 ## 📁 Available Formats of the full code explained in thr book:
 
 Choose the format that works best for you:
